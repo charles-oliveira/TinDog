@@ -4,4 +4,5 @@ As Features utilizadas no projeto foram HTML, CSS e Bootstrap.
 
 
 <h3>Lnk para acessar o projeto:</h3>
+<hr>
 Live: <a>https://fantastic-fox-bb232f.netlify.app</a>
